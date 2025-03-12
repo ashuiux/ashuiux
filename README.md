@@ -1,6 +1,6 @@
 # Hi there, I'm Aswini 👋  
 
-I'm a **UI/UX Designer turned Software Engineer** with a passion for building seamless, user-centric digital experiences. With a background in **design, education, and software engineering**, I bridge the gap between creativity and functionality. I enjoy problem-solving, refining user experiences, and crafting intuitive interfaces that enhance usability.  
+I'm a **UI/UX Designer turned Software Engineer** with a passion for building user-centric digital experiences. With a background in **design, education, and software engineering**, I bridge the gap between creativity and functionality. I enjoy problem-solving, refining user experiences, and crafting intuitive interfaces that enhance usability.  
 
 ## 💡 About Me  
 🎓 **Software Engineering Diploma** from BrainStation  
