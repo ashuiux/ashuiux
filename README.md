@@ -4,7 +4,7 @@ I'm a **Front-end Developer @ General Motors, UI/UX Designer turned Software Eng
 
 ## 💡 About Me  
 🎓 **Software Engineering Diploma** from BrainStation  
-🎨 **6+ years of experience** in UI/UX design and education  
+🎨 **7+ years of experience** in Software Engineering, UI/UX design and education  
 📚 Currently expanding my expertise in **full-stack development**  
 💻 Passionate about **human-centered design**, accessibility, and frontend development  
 
